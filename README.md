@@ -22,6 +22,9 @@
 </div>
 
 
+### Network topology: 
+The network is modelled as an undirected graph G(V,E) by using the NetworkX tool, https://networkx.github.io/. To represent the data plane topology, Abilene network topology has been adopted from http://sndlib.zib.de/home.action. 6 clients are added to generate traffic and represent different class of services.
+
 <div class="container">
   <div class="subcontainer">
     <figure>
