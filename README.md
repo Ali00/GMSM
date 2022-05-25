@@ -15,7 +15,18 @@
   <div class="subcontainer">
     <figure>
       <p align="center">
-      <img  src="https://user-images.githubusercontent.com/12594727/170259341-ca574068-90b1-4b2b-967a-2401b4fc3257.png" width="200" height="200"/>
+      <img  src="https://user-images.githubusercontent.com/12594727/170259341-ca574068-90b1-4b2b-967a-2401b4fc3257.png" width="300" height="300"/>
+      <figcaption><p align="center">Fig.2:GMSM Framework</figcaption>
+    </figure>
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="subcontainer">
+    <figure>
+      <p align="center">
+      <img  src="https://user-images.githubusercontent.com/12594727/170260825-11c04c02-0f44-48b2-b4d2-5e04460dd57e.png" width="300" height="300"/>
       <figcaption><p align="center">Fig.2:GMSM Framework</figcaption>
     </figure>
   </div>
