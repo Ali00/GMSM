@@ -38,4 +38,4 @@ The network is modelled as an undirected graph G(V,E) by using the NetworkX tool
   </div>
 </div>
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `If you use this framework or any of its code in your work then, please cite the following publication: "GMSM: Graph Modeling for SDN Monitoring",`<br>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `If you use this framework or any of its code in your work then, please cite the following publication: "Smart routing: Towards proactive fault handling of software-defined
