@@ -10,6 +10,9 @@
   </div>
 </div>
 
+ ### Network Framework:
+The framework has been evaluated by the SDN emulator "Mininet": http://mininet.org/ with POX as a network operating system
+(controller): https://github.com/noxrepo/pox/ 
 
 <div class="container">
   <div class="subcontainer">
@@ -22,7 +25,7 @@
 </div>
 
 
-### Network topology: 
+### Network Topology: 
 The network is modelled as an undirected graph G(V,E) by using the NetworkX tool, https://networkx.github.io/. To represent the data plane topology, Abilene network topology has been adopted from http://sndlib.zib.de/home.action. 6 clients are added to generate traffic and represent different class of services.
 
 <div class="container">
