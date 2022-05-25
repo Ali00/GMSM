@@ -26,7 +26,7 @@
   <div class="subcontainer">
     <figure>
       <p align="center">
-      <img  src="https://user-images.githubusercontent.com/12594727/170260825-11c04c02-0f44-48b2-b4d2-5e04460dd57e.png" width="300" height="300"/>
+      <img  src="https://user-images.githubusercontent.com/12594727/170260825-11c04c02-0f44-48b2-b4d2-5e04460dd57e.png" width="500" height="300"/>
       <figcaption><p align="center">Fig.2:GMSM Framework</figcaption>
     </figure>
   </div>
