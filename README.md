@@ -4,7 +4,7 @@
   <div class="subcontainer">
     <figure>
       <p align="center">
-      <img  src="https://user-images.githubusercontent.com/12594727/170258380-fcb0a9ad-43ce-4458-bb1a-4cec222107ed.png" width="200" height="200"/>
+      <img  src="https://user-images.githubusercontent.com/12594727/170258380-fcb0a9ad-43ce-4458-bb1a-4cec222107ed.png" width="400" height="400"/>
       <figcaption><p align="center">Fig.1:GMSM Prototype</figcaption>
     </figure>
   </div>
