@@ -66,6 +66,19 @@ GMSM, active-flow and periodic monitoring respectively.</figcaption>
 </div>
 
 
+<div class="container">
+  <div class="subcontainer">
+    <figure>
+      <p align="center">
+      <img  src="https://user-images.githubusercontent.com/12594727/183020796-b388605c-2394-4639-ad0a-3682ff4f5e2e.png" width="500" height="300"/>
+      <figcaption><p align="center">Fig.6: The count of OpenFlow stats request/reply packets per 1ms
+versus time are illustrated when the monitoring function is set at 10s
+intervals for GMSM, Active Flow and Periodic Monitoring. The □
+represents the stats request and ♢ represents stats reply.</figcaption>
+    </figure>
+  </div>
+</div>
+
 
 
 ```diff
