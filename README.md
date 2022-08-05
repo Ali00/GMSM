@@ -53,6 +53,20 @@ Information is captured from the {s 2 , s 6 } link of the Abilene topology. The 
 </div>
 
 
+<div class="container">
+  <div class="subcontainer">
+    <figure>
+      <p align="center">
+      <img  src="https://user-images.githubusercontent.com/12594727/183020486-2997b944-d934-4ae2-abd6-ba8c20a8627b.png" width="500" height="300"/>
+      <figcaption><p align="center">Fig.5: Network overhead measurement: the total number of
+invoked OpenFlow messages are: 2578, 2735 and 2764 messages for
+GMSM, active-flow and periodic monitoring respectively.</figcaption>
+    </figure>
+  </div>
+</div>
+
+
+
 
 ```diff
 - `If you use this framework or any of its code in your work then, please cite the following publication:
