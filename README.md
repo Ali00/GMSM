@@ -84,7 +84,7 @@ represents the stats request and ♢ represents stats reply.</figcaption>
   <div class="subcontainer">
     <figure>
       <p align="center">
-      <img  src="https://user-images.githubusercontent.com/12594727/183021021-2c7d993f-b972-48c6-a82f-9e33cc96a6ca.png" width="400" height="150"/>
+      <img  src="https://user-images.githubusercontent.com/12594727/183021021-2c7d993f-b972-48c6-a82f-9e33cc96a6ca.png" width="300" height="100"/>
       <figcaption><p align="center">Fig.7: Number of switches used in monitoring: GMSM queries
 the smallest number of switches vs periodic and active monitoring.</figcaption>
     </figure>
