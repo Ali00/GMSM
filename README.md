@@ -39,6 +39,20 @@ The network is modelled as an undirected graph G(V,E) by using the NetworkX tool
 </div>
 
 
+### Experimental Results: 
+
+<div class="container">
+  <div class="subcontainer">
+    <figure>
+      <p align="center">
+      <img  src="https://user-images.githubusercontent.com/12594727/183019823-c55f98c8-29d6-4311-a864-c91af3eb4db1.png" width="500" height="300"/>
+      <figcaption><p align="center">Fig.4: Evaluation of two different CoS flows: video and ICMP.
+Information is captured from the {s 2 , s 6 } link of the Abilene topology. The channel capacity is 8Mbps. The video and ICMP flows traverse a common path (s 1 , s 2 , s 6 , s 8 , s 7 , s 9 ).</figcaption>
+    </figure>
+  </div>
+</div>
+
+
 
 ```diff
 - `If you use this framework or any of its code in your work then, please cite the following publication:
