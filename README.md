@@ -94,5 +94,5 @@ the smallest number of switches vs periodic and active monitoring.</figcaption>
 
 ```diff
 - `If you use this framework or any of its code in your work then, please cite our IEEE Access publication:
-+ "Graph Modeling for Openflow Switch Monitoring" + https://ieeexplore.ieee.org/abstract/document/10213403
-``` 
++ "Graph Modeling for Openflow Switch Monitoring" ```
+https://ieeexplore.ieee.org/abstract/document/10213403
